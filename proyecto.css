@@ -1,0 +1,16 @@
+img{
+    width: 400px;
+    height: auto;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+.Titulo{
+	background-color: rgb(233, 106, 233);
+    text-align: center;
+}
+header{
+  border-color: rgb(233, 106, 233);
+  margin:0;
+  padding: 0;
+}
